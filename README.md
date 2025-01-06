@@ -29,7 +29,7 @@ A simple Go project for managing bookmarks. The application allows users to add,
 
 3. Run the application:
    ```bash
-   ./golang-bookmarks
+   ./bookmarks
    ```
 
 ## Usage
